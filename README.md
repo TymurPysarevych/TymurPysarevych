@@ -4,3 +4,7 @@
 
 
 ### <div align="center">I'm Tymur, a full-stack freelance developer 👨‍💻</div>
+
+<div align="center">
+    <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Braun-Johannes&theme=dark&layout=compact&bg_color=00000000" />
+</div>
